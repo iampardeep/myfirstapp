@@ -1,0 +1,8 @@
+{
+  "name": "myfirstionicapp",
+  "app_id": "e55cf127",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
